@@ -33,15 +33,13 @@ The system allows:
 - **Rider / Visual Studio**
 
 ## 🗃️ Project Structure
-MAS_Project/
-│
-├── Models/
-│ ├── Base/ # Business logic classes (Event, User, Enrollment, etc.)
-│ └── Persistence/ # Extent save/load implementations
-│
-├── MAS_GUI/ # Blazor GUI frontend
-├── UML Diagram.png # Class design overview
-└── MAS-information-en.pdf# Course project requirements
+- MAS_Project/
+  - Models/
+    - Base/ → Business logic classes (e.g., Event, User, Enrollment)
+    - Persistence/ → Extent save/load implementations
+  - MAS_GUI/ → Blazor GUI frontend
+  - UML Diagram.png → Class design overview
+  - MAS-information-en.pdf → Course project requirements
 
 
 ## 🚀 Getting Started
