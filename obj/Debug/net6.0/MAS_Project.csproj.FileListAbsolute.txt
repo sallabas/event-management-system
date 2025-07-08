@@ -1,0 +1,15 @@
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\bin\Debug\net6.0\MAS_Project.exe
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\bin\Debug\net6.0\MAS_Project.deps.json
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\bin\Debug\net6.0\MAS_Project.runtimeconfig.json
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\bin\Debug\net6.0\MAS_Project.dll
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\bin\Debug\net6.0\MAS_Project.pdb
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\obj\Debug\net6.0\MAS_Project.csproj.AssemblyReference.cache
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\obj\Debug\net6.0\MAS_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\obj\Debug\net6.0\MAS_Project.AssemblyInfoInputs.cache
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\obj\Debug\net6.0\MAS_Project.AssemblyInfo.cs
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\obj\Debug\net6.0\MAS_Project.csproj.CoreCompileInputs.cache
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\obj\Debug\net6.0\MAS_Project.dll
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\obj\Debug\net6.0\refint\MAS_Project.dll
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\obj\Debug\net6.0\MAS_Project.pdb
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\obj\Debug\net6.0\MAS_Project.genruntimeconfig.cache
+C:\Users\kysal\RiderProjects\MAS_Project\MAS_Project\obj\Debug\net6.0\ref\MAS_Project.dll
